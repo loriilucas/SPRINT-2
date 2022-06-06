@@ -1,3 +1,13 @@
+.anuncio{
+    text-align: center;
+    background-color:rgb(1, 1, 117);
+    border-bottom: 2px solid black;
+    height: 50px;
+    color: white;
+    font-family:fantasy;
+
+}
+
 .form{
     margin-left: 500px;
     margin-top: 50px;
@@ -13,7 +23,6 @@
 .anotacion{
     text-indent: 5px;
     margin: 13px;
-    
     width: 265px;
     background-color: white;
     border: 1px solid black;
