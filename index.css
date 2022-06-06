@@ -1,0 +1,37 @@
+.form{
+    margin-left: 500px;
+    margin-top: 50px;
+    border: black 2px solid;
+    height: auto;
+    width: 300px;
+    background-color:rgb(252, 210, 155)
+}
+
+.ok{
+    width: 265px;
+}
+.anotacion{
+    text-indent: 5px;
+    margin: 13px;
+    
+    width: 265px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.total1{
+    width: 265px;
+    text-indent: 5px;
+    border: 1px solid black;
+    background-color: white;
+    margin: 13px;
+}
+
+.total2{
+    width: 265px;
+    text-indent: 5px;
+    border: 1px solid black;
+    background-color: white;
+    margin: 13px;
+}
+
